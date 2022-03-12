@@ -8,4 +8,4 @@
   label, handleClick
   
 # Paragraph Props
-  label
+  content
